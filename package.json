@@ -1,5 +1,5 @@
 {
-	"name": "geoip-country",
+	"name": "geoip-country2",
 	"version": "4.2.16",
 	"description": "Less memory usage version of geoip-lite, by supporting only country lookup.",
 	"keywords": [
@@ -38,7 +38,6 @@
 	},
 	"dependencies": {
 		"async": "^2.6.4",
-		"colors": "^1.4.0",
 		"iconv-lite": "^0.5.2",
 		"ip-address": "^6.3.0",
 		"lazy": "^1.0.11",
